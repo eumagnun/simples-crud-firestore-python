@@ -1,0 +1,5 @@
+﻿streamlit
+google-cloud-firestore
+python-dotenv
+firebase
+firebase_admin
